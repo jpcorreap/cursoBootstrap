@@ -1,0 +1,19 @@
+{
+  "name": "cursobootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpcorreap/cursoBootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpcorreap/cursoBootstrap/issues"
+  },
+  "homepage": "https://github.com/jpcorreap/cursoBootstrap#readme"
+}
